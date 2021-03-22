@@ -1,7 +1,23 @@
 
 Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
 
+
+4 type of Cloud Computing
+
+  1. Public Cloud
+      Lots of Available space, Great for collaborative projects
+  2. Private Cloud
+      Usually locked behind a firewall, Used by a single organization
+  3. Hybird Cloud
+      Mixture of public and private cloud
+  4. Community Cloud
+      Collaborative platform used by different organizations to share the same applications.
+
+
+
+
 3 types of Cloud Computing Services
+
   1. Saas software as a service
       Example: Google Apps, such as Google Drive and Mail
     
@@ -28,6 +44,5 @@ Cloud computing is the on-demand availability of computer system resources, espe
    
    https://mk0blogflexera9w0ogf.kinstacdn.com/wp-content/uploads/2020/05/Chart-4.png
    
-   My thoughts on Cloud Computing:
    
    
