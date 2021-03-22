@@ -1,10 +1,30 @@
 
 Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user.
 
-3 types of cloud computing
+3 types of Cloud Computing Services
   1. Saas software as a service
+      Example: Google Apps, such as Google Drive and Mail
+    
   2. Iaas or Infrastrucutre as a service
+      Example: Dropbox, Microsoft Azure
+      
   3. Paas or Platform as a service
-  
+      Example : Google App Engine (a service that allows developers to develop and servce apps.)
+      
+   
+  Benefits of Cloud Computing
+   1. Reduce IT Costs
+   2. Managed by Professionals
+   3. Secure Environment
+   4. 24/7 Moniotiring/Less downtime
+   5. Accessible from Anywhere
+   
+   Disadvantages of Cloud Computing
+   1. Risk of Data confidentiality
+   2. Eveything depends on the Internet Connection
+   3. Technical Problems cannot be solved manually right away
+   
+   
+   
   
   
